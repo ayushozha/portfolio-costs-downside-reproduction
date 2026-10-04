@@ -1,0 +1,1403 @@
+{
+  "all_fit_count": 75,
+  "all_fit_selections": [
+    {
+      "dataset": "nyse-o",
+      "policy": "return_only",
+      "seed": 0,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 400
+    },
+    {
+      "dataset": "nyse-o",
+      "policy": "return_only",
+      "seed": 1,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 600
+    },
+    {
+      "dataset": "nyse-o",
+      "policy": "return_only",
+      "seed": 2,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 600
+    },
+    {
+      "dataset": "nyse-o",
+      "policy": "return_only",
+      "seed": 3,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 550
+    },
+    {
+      "dataset": "nyse-o",
+      "policy": "return_only",
+      "seed": 4,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 600
+    },
+    {
+      "dataset": "nyse-o",
+      "policy": "cost_aware",
+      "seed": 0,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 200
+    },
+    {
+      "dataset": "nyse-o",
+      "policy": "cost_aware",
+      "seed": 1,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 150
+    },
+    {
+      "dataset": "nyse-o",
+      "policy": "cost_aware",
+      "seed": 2,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 200
+    },
+    {
+      "dataset": "nyse-o",
+      "policy": "cost_aware",
+      "seed": 3,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 150
+    },
+    {
+      "dataset": "nyse-o",
+      "policy": "cost_aware",
+      "seed": 4,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 200
+    },
+    {
+      "dataset": "nyse-o",
+      "policy": "downside_lambda1",
+      "seed": 0,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 200
+    },
+    {
+      "dataset": "nyse-o",
+      "policy": "downside_lambda1",
+      "seed": 1,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 150
+    },
+    {
+      "dataset": "nyse-o",
+      "policy": "downside_lambda1",
+      "seed": 2,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 200
+    },
+    {
+      "dataset": "nyse-o",
+      "policy": "downside_lambda1",
+      "seed": 3,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 150
+    },
+    {
+      "dataset": "nyse-o",
+      "policy": "downside_lambda1",
+      "seed": 4,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 150
+    },
+    {
+      "dataset": "nyse-o",
+      "policy": "downside_lambda10",
+      "seed": 0,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 150
+    },
+    {
+      "dataset": "nyse-o",
+      "policy": "downside_lambda10",
+      "seed": 1,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 150
+    },
+    {
+      "dataset": "nyse-o",
+      "policy": "downside_lambda10",
+      "seed": 2,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 200
+    },
+    {
+      "dataset": "nyse-o",
+      "policy": "downside_lambda10",
+      "seed": 3,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 150
+    },
+    {
+      "dataset": "nyse-o",
+      "policy": "downside_lambda10",
+      "seed": 4,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 350
+    },
+    {
+      "dataset": "nyse-o",
+      "policy": "downside_lambda100",
+      "seed": 0,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 600
+    },
+    {
+      "dataset": "nyse-o",
+      "policy": "downside_lambda100",
+      "seed": 1,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 600
+    },
+    {
+      "dataset": "nyse-o",
+      "policy": "downside_lambda100",
+      "seed": 2,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 600
+    },
+    {
+      "dataset": "nyse-o",
+      "policy": "downside_lambda100",
+      "seed": 3,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 600
+    },
+    {
+      "dataset": "nyse-o",
+      "policy": "downside_lambda100",
+      "seed": 4,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 600
+    },
+    {
+      "dataset": "sp500",
+      "policy": "return_only",
+      "seed": 0,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 250
+    },
+    {
+      "dataset": "sp500",
+      "policy": "return_only",
+      "seed": 1,
+      "selected_parameters_exactly_initial": true,
+      "selected_update": 0
+    },
+    {
+      "dataset": "sp500",
+      "policy": "return_only",
+      "seed": 2,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 600
+    },
+    {
+      "dataset": "sp500",
+      "policy": "return_only",
+      "seed": 3,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 600
+    },
+    {
+      "dataset": "sp500",
+      "policy": "return_only",
+      "seed": 4,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 400
+    },
+    {
+      "dataset": "sp500",
+      "policy": "cost_aware",
+      "seed": 0,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 200
+    },
+    {
+      "dataset": "sp500",
+      "policy": "cost_aware",
+      "seed": 1,
+      "selected_parameters_exactly_initial": true,
+      "selected_update": 0
+    },
+    {
+      "dataset": "sp500",
+      "policy": "cost_aware",
+      "seed": 2,
+      "selected_parameters_exactly_initial": true,
+      "selected_update": 0
+    },
+    {
+      "dataset": "sp500",
+      "policy": "cost_aware",
+      "seed": 3,
+      "selected_parameters_exactly_initial": true,
+      "selected_update": 0
+    },
+    {
+      "dataset": "sp500",
+      "policy": "cost_aware",
+      "seed": 4,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 200
+    },
+    {
+      "dataset": "sp500",
+      "policy": "downside_lambda1",
+      "seed": 0,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 50
+    },
+    {
+      "dataset": "sp500",
+      "policy": "downside_lambda1",
+      "seed": 1,
+      "selected_parameters_exactly_initial": true,
+      "selected_update": 0
+    },
+    {
+      "dataset": "sp500",
+      "policy": "downside_lambda1",
+      "seed": 2,
+      "selected_parameters_exactly_initial": true,
+      "selected_update": 0
+    },
+    {
+      "dataset": "sp500",
+      "policy": "downside_lambda1",
+      "seed": 3,
+      "selected_parameters_exactly_initial": true,
+      "selected_update": 0
+    },
+    {
+      "dataset": "sp500",
+      "policy": "downside_lambda1",
+      "seed": 4,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 50
+    },
+    {
+      "dataset": "sp500",
+      "policy": "downside_lambda10",
+      "seed": 0,
+      "selected_parameters_exactly_initial": true,
+      "selected_update": 0
+    },
+    {
+      "dataset": "sp500",
+      "policy": "downside_lambda10",
+      "seed": 1,
+      "selected_parameters_exactly_initial": true,
+      "selected_update": 0
+    },
+    {
+      "dataset": "sp500",
+      "policy": "downside_lambda10",
+      "seed": 2,
+      "selected_parameters_exactly_initial": true,
+      "selected_update": 0
+    },
+    {
+      "dataset": "sp500",
+      "policy": "downside_lambda10",
+      "seed": 3,
+      "selected_parameters_exactly_initial": true,
+      "selected_update": 0
+    },
+    {
+      "dataset": "sp500",
+      "policy": "downside_lambda10",
+      "seed": 4,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 50
+    },
+    {
+      "dataset": "sp500",
+      "policy": "downside_lambda100",
+      "seed": 0,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 400
+    },
+    {
+      "dataset": "sp500",
+      "policy": "downside_lambda100",
+      "seed": 1,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 450
+    },
+    {
+      "dataset": "sp500",
+      "policy": "downside_lambda100",
+      "seed": 2,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 400
+    },
+    {
+      "dataset": "sp500",
+      "policy": "downside_lambda100",
+      "seed": 3,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 550
+    },
+    {
+      "dataset": "sp500",
+      "policy": "downside_lambda100",
+      "seed": 4,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 400
+    },
+    {
+      "dataset": "djia",
+      "policy": "return_only",
+      "seed": 0,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 400
+    },
+    {
+      "dataset": "djia",
+      "policy": "return_only",
+      "seed": 1,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 550
+    },
+    {
+      "dataset": "djia",
+      "policy": "return_only",
+      "seed": 2,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 400
+    },
+    {
+      "dataset": "djia",
+      "policy": "return_only",
+      "seed": 3,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 400
+    },
+    {
+      "dataset": "djia",
+      "policy": "return_only",
+      "seed": 4,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 200
+    },
+    {
+      "dataset": "djia",
+      "policy": "cost_aware",
+      "seed": 0,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 50
+    },
+    {
+      "dataset": "djia",
+      "policy": "cost_aware",
+      "seed": 1,
+      "selected_parameters_exactly_initial": true,
+      "selected_update": 0
+    },
+    {
+      "dataset": "djia",
+      "policy": "cost_aware",
+      "seed": 2,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 500
+    },
+    {
+      "dataset": "djia",
+      "policy": "cost_aware",
+      "seed": 3,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 300
+    },
+    {
+      "dataset": "djia",
+      "policy": "cost_aware",
+      "seed": 4,
+      "selected_parameters_exactly_initial": true,
+      "selected_update": 0
+    },
+    {
+      "dataset": "djia",
+      "policy": "downside_lambda1",
+      "seed": 0,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 50
+    },
+    {
+      "dataset": "djia",
+      "policy": "downside_lambda1",
+      "seed": 1,
+      "selected_parameters_exactly_initial": true,
+      "selected_update": 0
+    },
+    {
+      "dataset": "djia",
+      "policy": "downside_lambda1",
+      "seed": 2,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 600
+    },
+    {
+      "dataset": "djia",
+      "policy": "downside_lambda1",
+      "seed": 3,
+      "selected_parameters_exactly_initial": true,
+      "selected_update": 0
+    },
+    {
+      "dataset": "djia",
+      "policy": "downside_lambda1",
+      "seed": 4,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 50
+    },
+    {
+      "dataset": "djia",
+      "policy": "downside_lambda10",
+      "seed": 0,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 150
+    },
+    {
+      "dataset": "djia",
+      "policy": "downside_lambda10",
+      "seed": 1,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 150
+    },
+    {
+      "dataset": "djia",
+      "policy": "downside_lambda10",
+      "seed": 2,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 150
+    },
+    {
+      "dataset": "djia",
+      "policy": "downside_lambda10",
+      "seed": 3,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 50
+    },
+    {
+      "dataset": "djia",
+      "policy": "downside_lambda10",
+      "seed": 4,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 150
+    },
+    {
+      "dataset": "djia",
+      "policy": "downside_lambda100",
+      "seed": 0,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 350
+    },
+    {
+      "dataset": "djia",
+      "policy": "downside_lambda100",
+      "seed": 1,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 350
+    },
+    {
+      "dataset": "djia",
+      "policy": "downside_lambda100",
+      "seed": 2,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 300
+    },
+    {
+      "dataset": "djia",
+      "policy": "downside_lambda100",
+      "seed": 3,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 350
+    },
+    {
+      "dataset": "djia",
+      "policy": "downside_lambda100",
+      "seed": 4,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 350
+    }
+  ],
+  "all_update_zero_count": 15,
+  "allocation_l1_definition": "sum over cash and all risky components of abs(selected_weight-initial_weight), for each observation; lies in [0,2] for simplex allocations",
+  "checkpoint_counts": [
+    {
+      "dataset": "nyse-o",
+      "fits": 5,
+      "policy": "return_only",
+      "selected_updates": [
+        400,
+        600,
+        600,
+        550,
+        600
+      ],
+      "update_zero_count": 0
+    },
+    {
+      "dataset": "nyse-o",
+      "fits": 5,
+      "policy": "cost_aware",
+      "selected_updates": [
+        200,
+        150,
+        200,
+        150,
+        200
+      ],
+      "update_zero_count": 0
+    },
+    {
+      "dataset": "nyse-o",
+      "fits": 5,
+      "policy": "downside_lambda1",
+      "selected_updates": [
+        200,
+        150,
+        200,
+        150,
+        150
+      ],
+      "update_zero_count": 0
+    },
+    {
+      "dataset": "nyse-o",
+      "fits": 5,
+      "policy": "downside_lambda10",
+      "selected_updates": [
+        150,
+        150,
+        200,
+        150,
+        350
+      ],
+      "update_zero_count": 0
+    },
+    {
+      "dataset": "nyse-o",
+      "fits": 5,
+      "policy": "downside_lambda100",
+      "selected_updates": [
+        600,
+        600,
+        600,
+        600,
+        600
+      ],
+      "update_zero_count": 0
+    },
+    {
+      "dataset": "sp500",
+      "fits": 5,
+      "policy": "return_only",
+      "selected_updates": [
+        250,
+        0,
+        600,
+        600,
+        400
+      ],
+      "update_zero_count": 1
+    },
+    {
+      "dataset": "sp500",
+      "fits": 5,
+      "policy": "cost_aware",
+      "selected_updates": [
+        200,
+        0,
+        0,
+        0,
+        200
+      ],
+      "update_zero_count": 3
+    },
+    {
+      "dataset": "sp500",
+      "fits": 5,
+      "policy": "downside_lambda1",
+      "selected_updates": [
+        50,
+        0,
+        0,
+        0,
+        50
+      ],
+      "update_zero_count": 3
+    },
+    {
+      "dataset": "sp500",
+      "fits": 5,
+      "policy": "downside_lambda10",
+      "selected_updates": [
+        0,
+        0,
+        0,
+        0,
+        50
+      ],
+      "update_zero_count": 4
+    },
+    {
+      "dataset": "sp500",
+      "fits": 5,
+      "policy": "downside_lambda100",
+      "selected_updates": [
+        400,
+        450,
+        400,
+        550,
+        400
+      ],
+      "update_zero_count": 0
+    },
+    {
+      "dataset": "djia",
+      "fits": 5,
+      "policy": "return_only",
+      "selected_updates": [
+        400,
+        550,
+        400,
+        400,
+        200
+      ],
+      "update_zero_count": 0
+    },
+    {
+      "dataset": "djia",
+      "fits": 5,
+      "policy": "cost_aware",
+      "selected_updates": [
+        50,
+        0,
+        500,
+        300,
+        0
+      ],
+      "update_zero_count": 2
+    },
+    {
+      "dataset": "djia",
+      "fits": 5,
+      "policy": "downside_lambda1",
+      "selected_updates": [
+        50,
+        0,
+        600,
+        0,
+        50
+      ],
+      "update_zero_count": 2
+    },
+    {
+      "dataset": "djia",
+      "fits": 5,
+      "policy": "downside_lambda10",
+      "selected_updates": [
+        150,
+        150,
+        150,
+        50,
+        150
+      ],
+      "update_zero_count": 0
+    },
+    {
+      "dataset": "djia",
+      "fits": 5,
+      "policy": "downside_lambda100",
+      "selected_updates": [
+        350,
+        350,
+        300,
+        350,
+        350
+      ],
+      "update_zero_count": 0
+    }
+  ],
+  "cost_aware_fit_count": 15,
+  "cost_aware_test_summary": [
+    {
+      "dataset": "nyse-o",
+      "fits": 5,
+      "nonzero_update_test_mean_l1_per_seed": [
+        0.048541980109899775,
+        0.024836278918262084,
+        0.05133218289804308,
+        0.044113348035744744,
+        0.04484319316967181
+      ],
+      "test_component_difference_maximum_over_all_seeds_and_observations": 0.023019310564819144,
+      "test_l1_maximum_over_all_seeds_and_observations": 0.1523825061003056,
+      "test_mean_l1_per_seed": [
+        0.048541980109899775,
+        0.024836278918262084,
+        0.05133218289804308,
+        0.044113348035744744,
+        0.04484319316967181
+      ],
+      "test_mean_l1_seed_maximum": 0.05133218289804308,
+      "test_mean_l1_seed_median": 0.04484319316967181,
+      "test_mean_l1_seed_minimum": 0.024836278918262084,
+      "update_zero_count": 0
+    },
+    {
+      "dataset": "sp500",
+      "fits": 5,
+      "nonzero_update_test_mean_l1_per_seed": [
+        0.3982742594528722,
+        0.2841666788464924
+      ],
+      "test_component_difference_maximum_over_all_seeds_and_observations": 0.2960815935678974,
+      "test_l1_maximum_over_all_seeds_and_observations": 1.140957410655591,
+      "test_mean_l1_per_seed": [
+        0.3982742594528722,
+        0.0,
+        0.0,
+        0.0,
+        0.2841666788464924
+      ],
+      "test_mean_l1_seed_maximum": 0.3982742594528722,
+      "test_mean_l1_seed_median": 0.0,
+      "test_mean_l1_seed_minimum": 0.0,
+      "update_zero_count": 3
+    },
+    {
+      "dataset": "djia",
+      "fits": 5,
+      "nonzero_update_test_mean_l1_per_seed": [
+        0.06836165512786214,
+        1.636701412232194,
+        1.113064595837105
+      ],
+      "test_component_difference_maximum_over_all_seeds_and_observations": 0.9692730387210887,
+      "test_l1_maximum_over_all_seeds_and_observations": 1.9385460774421772,
+      "test_mean_l1_per_seed": [
+        0.06836165512786214,
+        0.0,
+        1.636701412232194,
+        1.113064595837105,
+        0.0
+      ],
+      "test_mean_l1_seed_maximum": 1.636701412232194,
+      "test_mean_l1_seed_median": 0.06836165512786214,
+      "test_mean_l1_seed_minimum": 0.0,
+      "update_zero_count": 2
+    }
+  ],
+  "cost_aware_update_zero_count": 5,
+  "initialization_recovery": "Executed frozen Policy constructor, same input/output dimensions, hidden sizes and NumPy RandomState seed; original standardization retained",
+  "limitations": [
+    "Post hoc descriptive diagnostic, not a prespecified inferential test",
+    "No threshold for near initialization was prespecified",
+    "Does not identify causes of a performance difference",
+    "No new training or checkpoint selection",
+    "Initial parameter arrays reconstructed from the recorded generator rather than separately saved initial checkpoint files",
+    "All recoverable update-zero parameter arrays match exactly; test allocations independently match retained paths"
+  ],
+  "maximum_component_definition": "maximum abs(selected_weight-initial_weight) across all observations and allocation components",
+  "no_bootstrap_or_causal_decomposition": true,
+  "no_performance_recalculation": true,
+  "no_training": true,
+  "rows": [
+    {
+      "allocation_component_absolute_difference_maximum": 0.05840819999469954,
+      "allocation_l1_maximum": 0.19574748903291492,
+      "allocation_l1_mean": 0.045394357102766195,
+      "dataset": "nyse-o",
+      "observations": 3370,
+      "partition": "train",
+      "policy": "cost_aware",
+      "retained_test_allocation_absolute_error_maximum": null,
+      "seed": 0,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 200
+    },
+    {
+      "allocation_component_absolute_difference_maximum": 0.02571084462103898,
+      "allocation_l1_maximum": 0.12657871320869638,
+      "allocation_l1_mean": 0.041498903515596916,
+      "dataset": "nyse-o",
+      "observations": 1130,
+      "partition": "validation",
+      "policy": "cost_aware",
+      "retained_test_allocation_absolute_error_maximum": null,
+      "seed": 0,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 200
+    },
+    {
+      "allocation_component_absolute_difference_maximum": 0.023019310564819144,
+      "allocation_l1_maximum": 0.1523825061003056,
+      "allocation_l1_mean": 0.048541980109899775,
+      "dataset": "nyse-o",
+      "observations": 1131,
+      "partition": "test",
+      "policy": "cost_aware",
+      "retained_test_allocation_absolute_error_maximum": 0.0,
+      "seed": 0,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 200
+    },
+    {
+      "allocation_component_absolute_difference_maximum": 0.008762799366142396,
+      "allocation_l1_maximum": 0.09631956173362424,
+      "allocation_l1_mean": 0.023242193649307685,
+      "dataset": "nyse-o",
+      "observations": 3370,
+      "partition": "train",
+      "policy": "cost_aware",
+      "retained_test_allocation_absolute_error_maximum": null,
+      "seed": 1,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 150
+    },
+    {
+      "allocation_component_absolute_difference_maximum": 0.005307984946428659,
+      "allocation_l1_maximum": 0.054140797139868926,
+      "allocation_l1_mean": 0.02149561126051563,
+      "dataset": "nyse-o",
+      "observations": 1130,
+      "partition": "validation",
+      "policy": "cost_aware",
+      "retained_test_allocation_absolute_error_maximum": null,
+      "seed": 1,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 150
+    },
+    {
+      "allocation_component_absolute_difference_maximum": 0.006150909038840326,
+      "allocation_l1_maximum": 0.07882676196682703,
+      "allocation_l1_mean": 0.024836278918262084,
+      "dataset": "nyse-o",
+      "observations": 1131,
+      "partition": "test",
+      "policy": "cost_aware",
+      "retained_test_allocation_absolute_error_maximum": 0.0,
+      "seed": 1,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 150
+    },
+    {
+      "allocation_component_absolute_difference_maximum": 0.03812558399712045,
+      "allocation_l1_maximum": 0.19386984178599076,
+      "allocation_l1_mean": 0.046954631994911115,
+      "dataset": "nyse-o",
+      "observations": 3370,
+      "partition": "train",
+      "policy": "cost_aware",
+      "retained_test_allocation_absolute_error_maximum": null,
+      "seed": 2,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 200
+    },
+    {
+      "allocation_component_absolute_difference_maximum": 0.02217240195764302,
+      "allocation_l1_maximum": 0.1271339637894387,
+      "allocation_l1_mean": 0.04363419847688219,
+      "dataset": "nyse-o",
+      "observations": 1130,
+      "partition": "validation",
+      "policy": "cost_aware",
+      "retained_test_allocation_absolute_error_maximum": null,
+      "seed": 2,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 200
+    },
+    {
+      "allocation_component_absolute_difference_maximum": 0.022575970878078683,
+      "allocation_l1_maximum": 0.14832742636228616,
+      "allocation_l1_mean": 0.05133218289804308,
+      "dataset": "nyse-o",
+      "observations": 1131,
+      "partition": "test",
+      "policy": "cost_aware",
+      "retained_test_allocation_absolute_error_maximum": 0.0,
+      "seed": 2,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 200
+    },
+    {
+      "allocation_component_absolute_difference_maximum": 0.03932473506188222,
+      "allocation_l1_maximum": 0.21490212159828995,
+      "allocation_l1_mean": 0.041384940139627686,
+      "dataset": "nyse-o",
+      "observations": 3370,
+      "partition": "train",
+      "policy": "cost_aware",
+      "retained_test_allocation_absolute_error_maximum": null,
+      "seed": 3,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 150
+    },
+    {
+      "allocation_component_absolute_difference_maximum": 0.015861428757355123,
+      "allocation_l1_maximum": 0.12052930249319221,
+      "allocation_l1_mean": 0.03735703754491621,
+      "dataset": "nyse-o",
+      "observations": 1130,
+      "partition": "validation",
+      "policy": "cost_aware",
+      "retained_test_allocation_absolute_error_maximum": null,
+      "seed": 3,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 150
+    },
+    {
+      "allocation_component_absolute_difference_maximum": 0.017161183247916878,
+      "allocation_l1_maximum": 0.13956920717225726,
+      "allocation_l1_mean": 0.044113348035744744,
+      "dataset": "nyse-o",
+      "observations": 1131,
+      "partition": "test",
+      "policy": "cost_aware",
+      "retained_test_allocation_absolute_error_maximum": 0.0,
+      "seed": 3,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 150
+    },
+    {
+      "allocation_component_absolute_difference_maximum": 0.013625401869938839,
+      "allocation_l1_maximum": 0.15147967168989282,
+      "allocation_l1_mean": 0.04258720392280044,
+      "dataset": "nyse-o",
+      "observations": 3370,
+      "partition": "train",
+      "policy": "cost_aware",
+      "retained_test_allocation_absolute_error_maximum": null,
+      "seed": 4,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 200
+    },
+    {
+      "allocation_component_absolute_difference_maximum": 0.011051837946429492,
+      "allocation_l1_maximum": 0.10360130841980887,
+      "allocation_l1_mean": 0.03896801084184849,
+      "dataset": "nyse-o",
+      "observations": 1130,
+      "partition": "validation",
+      "policy": "cost_aware",
+      "retained_test_allocation_absolute_error_maximum": null,
+      "seed": 4,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 200
+    },
+    {
+      "allocation_component_absolute_difference_maximum": 0.01008516963941189,
+      "allocation_l1_maximum": 0.1017632850682421,
+      "allocation_l1_mean": 0.04484319316967181,
+      "dataset": "nyse-o",
+      "observations": 1131,
+      "partition": "test",
+      "policy": "cost_aware",
+      "retained_test_allocation_absolute_error_maximum": 0.0,
+      "seed": 4,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 200
+    },
+    {
+      "allocation_component_absolute_difference_maximum": 0.5043913453907556,
+      "allocation_l1_maximum": 1.2395024504686432,
+      "allocation_l1_mean": 0.41411692712995896,
+      "dataset": "sp500",
+      "observations": 745,
+      "partition": "train",
+      "policy": "cost_aware",
+      "retained_test_allocation_absolute_error_maximum": null,
+      "seed": 0,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 200
+    },
+    {
+      "allocation_component_absolute_difference_maximum": 0.21890684960906368,
+      "allocation_l1_maximum": 0.8355289867502379,
+      "allocation_l1_mean": 0.3486951921852829,
+      "dataset": "sp500",
+      "observations": 255,
+      "partition": "validation",
+      "policy": "cost_aware",
+      "retained_test_allocation_absolute_error_maximum": null,
+      "seed": 0,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 200
+    },
+    {
+      "allocation_component_absolute_difference_maximum": 0.2960815935678974,
+      "allocation_l1_maximum": 1.140957410655591,
+      "allocation_l1_mean": 0.3982742594528722,
+      "dataset": "sp500",
+      "observations": 256,
+      "partition": "test",
+      "policy": "cost_aware",
+      "retained_test_allocation_absolute_error_maximum": 0.0,
+      "seed": 0,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 200
+    },
+    {
+      "allocation_component_absolute_difference_maximum": 0.0,
+      "allocation_l1_maximum": 0.0,
+      "allocation_l1_mean": 0.0,
+      "dataset": "sp500",
+      "observations": 745,
+      "partition": "train",
+      "policy": "cost_aware",
+      "retained_test_allocation_absolute_error_maximum": null,
+      "seed": 1,
+      "selected_parameters_exactly_initial": true,
+      "selected_update": 0
+    },
+    {
+      "allocation_component_absolute_difference_maximum": 0.0,
+      "allocation_l1_maximum": 0.0,
+      "allocation_l1_mean": 0.0,
+      "dataset": "sp500",
+      "observations": 255,
+      "partition": "validation",
+      "policy": "cost_aware",
+      "retained_test_allocation_absolute_error_maximum": null,
+      "seed": 1,
+      "selected_parameters_exactly_initial": true,
+      "selected_update": 0
+    },
+    {
+      "allocation_component_absolute_difference_maximum": 0.0,
+      "allocation_l1_maximum": 0.0,
+      "allocation_l1_mean": 0.0,
+      "dataset": "sp500",
+      "observations": 256,
+      "partition": "test",
+      "policy": "cost_aware",
+      "retained_test_allocation_absolute_error_maximum": 0.0,
+      "seed": 1,
+      "selected_parameters_exactly_initial": true,
+      "selected_update": 0
+    },
+    {
+      "allocation_component_absolute_difference_maximum": 0.0,
+      "allocation_l1_maximum": 0.0,
+      "allocation_l1_mean": 0.0,
+      "dataset": "sp500",
+      "observations": 745,
+      "partition": "train",
+      "policy": "cost_aware",
+      "retained_test_allocation_absolute_error_maximum": null,
+      "seed": 2,
+      "selected_parameters_exactly_initial": true,
+      "selected_update": 0
+    },
+    {
+      "allocation_component_absolute_difference_maximum": 0.0,
+      "allocation_l1_maximum": 0.0,
+      "allocation_l1_mean": 0.0,
+      "dataset": "sp500",
+      "observations": 255,
+      "partition": "validation",
+      "policy": "cost_aware",
+      "retained_test_allocation_absolute_error_maximum": null,
+      "seed": 2,
+      "selected_parameters_exactly_initial": true,
+      "selected_update": 0
+    },
+    {
+      "allocation_component_absolute_difference_maximum": 0.0,
+      "allocation_l1_maximum": 0.0,
+      "allocation_l1_mean": 0.0,
+      "dataset": "sp500",
+      "observations": 256,
+      "partition": "test",
+      "policy": "cost_aware",
+      "retained_test_allocation_absolute_error_maximum": 0.0,
+      "seed": 2,
+      "selected_parameters_exactly_initial": true,
+      "selected_update": 0
+    },
+    {
+      "allocation_component_absolute_difference_maximum": 0.0,
+      "allocation_l1_maximum": 0.0,
+      "allocation_l1_mean": 0.0,
+      "dataset": "sp500",
+      "observations": 745,
+      "partition": "train",
+      "policy": "cost_aware",
+      "retained_test_allocation_absolute_error_maximum": null,
+      "seed": 3,
+      "selected_parameters_exactly_initial": true,
+      "selected_update": 0
+    },
+    {
+      "allocation_component_absolute_difference_maximum": 0.0,
+      "allocation_l1_maximum": 0.0,
+      "allocation_l1_mean": 0.0,
+      "dataset": "sp500",
+      "observations": 255,
+      "partition": "validation",
+      "policy": "cost_aware",
+      "retained_test_allocation_absolute_error_maximum": null,
+      "seed": 3,
+      "selected_parameters_exactly_initial": true,
+      "selected_update": 0
+    },
+    {
+      "allocation_component_absolute_difference_maximum": 0.0,
+      "allocation_l1_maximum": 0.0,
+      "allocation_l1_mean": 0.0,
+      "dataset": "sp500",
+      "observations": 256,
+      "partition": "test",
+      "policy": "cost_aware",
+      "retained_test_allocation_absolute_error_maximum": 0.0,
+      "seed": 3,
+      "selected_parameters_exactly_initial": true,
+      "selected_update": 0
+    },
+    {
+      "allocation_component_absolute_difference_maximum": 0.5131783306524642,
+      "allocation_l1_maximum": 1.2908401730893995,
+      "allocation_l1_mean": 0.3001117562559731,
+      "dataset": "sp500",
+      "observations": 745,
+      "partition": "train",
+      "policy": "cost_aware",
+      "retained_test_allocation_absolute_error_maximum": null,
+      "seed": 4,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 200
+    },
+    {
+      "allocation_component_absolute_difference_maximum": 0.16272611723906993,
+      "allocation_l1_maximum": 0.7031446521148872,
+      "allocation_l1_mean": 0.24897773121471356,
+      "dataset": "sp500",
+      "observations": 255,
+      "partition": "validation",
+      "policy": "cost_aware",
+      "retained_test_allocation_absolute_error_maximum": null,
+      "seed": 4,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 200
+    },
+    {
+      "allocation_component_absolute_difference_maximum": 0.2581097234395032,
+      "allocation_l1_maximum": 0.9076779765791104,
+      "allocation_l1_mean": 0.2841666788464924,
+      "dataset": "sp500",
+      "observations": 256,
+      "partition": "test",
+      "policy": "cost_aware",
+      "retained_test_allocation_absolute_error_maximum": 0.0,
+      "seed": 4,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 200
+    },
+    {
+      "allocation_component_absolute_difference_maximum": 0.02679314187387944,
+      "allocation_l1_maximum": 0.24322141349306106,
+      "allocation_l1_mean": 0.0515434366188186,
+      "dataset": "djia",
+      "observations": 284,
+      "partition": "train",
+      "policy": "cost_aware",
+      "retained_test_allocation_absolute_error_maximum": null,
+      "seed": 0,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 50
+    },
+    {
+      "allocation_component_absolute_difference_maximum": 0.012481644467399779,
+      "allocation_l1_maximum": 0.158941325038857,
+      "allocation_l1_mean": 0.05720602982945755,
+      "dataset": "djia",
+      "observations": 101,
+      "partition": "validation",
+      "policy": "cost_aware",
+      "retained_test_allocation_absolute_error_maximum": null,
+      "seed": 0,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 50
+    },
+    {
+      "allocation_component_absolute_difference_maximum": 0.009642358240024941,
+      "allocation_l1_maximum": 0.14288225496927773,
+      "allocation_l1_mean": 0.06836165512786214,
+      "dataset": "djia",
+      "observations": 102,
+      "partition": "test",
+      "policy": "cost_aware",
+      "retained_test_allocation_absolute_error_maximum": 0.0,
+      "seed": 0,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 50
+    },
+    {
+      "allocation_component_absolute_difference_maximum": 0.0,
+      "allocation_l1_maximum": 0.0,
+      "allocation_l1_mean": 0.0,
+      "dataset": "djia",
+      "observations": 284,
+      "partition": "train",
+      "policy": "cost_aware",
+      "retained_test_allocation_absolute_error_maximum": null,
+      "seed": 1,
+      "selected_parameters_exactly_initial": true,
+      "selected_update": 0
+    },
+    {
+      "allocation_component_absolute_difference_maximum": 0.0,
+      "allocation_l1_maximum": 0.0,
+      "allocation_l1_mean": 0.0,
+      "dataset": "djia",
+      "observations": 101,
+      "partition": "validation",
+      "policy": "cost_aware",
+      "retained_test_allocation_absolute_error_maximum": null,
+      "seed": 1,
+      "selected_parameters_exactly_initial": true,
+      "selected_update": 0
+    },
+    {
+      "allocation_component_absolute_difference_maximum": 0.0,
+      "allocation_l1_maximum": 0.0,
+      "allocation_l1_mean": 0.0,
+      "dataset": "djia",
+      "observations": 102,
+      "partition": "test",
+      "policy": "cost_aware",
+      "retained_test_allocation_absolute_error_maximum": 0.0,
+      "seed": 1,
+      "selected_parameters_exactly_initial": true,
+      "selected_update": 0
+    },
+    {
+      "allocation_component_absolute_difference_maximum": 0.9676525420249243,
+      "allocation_l1_maximum": 1.9353050840498487,
+      "allocation_l1_mean": 1.542965719546108,
+      "dataset": "djia",
+      "observations": 284,
+      "partition": "train",
+      "policy": "cost_aware",
+      "retained_test_allocation_absolute_error_maximum": null,
+      "seed": 2,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 500
+    },
+    {
+      "allocation_component_absolute_difference_maximum": 0.964237021792868,
+      "allocation_l1_maximum": 1.9284740435857357,
+      "allocation_l1_mean": 1.46514074729133,
+      "dataset": "djia",
+      "observations": 101,
+      "partition": "validation",
+      "policy": "cost_aware",
+      "retained_test_allocation_absolute_error_maximum": null,
+      "seed": 2,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 500
+    },
+    {
+      "allocation_component_absolute_difference_maximum": 0.9692730387210887,
+      "allocation_l1_maximum": 1.9385460774421772,
+      "allocation_l1_mean": 1.636701412232194,
+      "dataset": "djia",
+      "observations": 102,
+      "partition": "test",
+      "policy": "cost_aware",
+      "retained_test_allocation_absolute_error_maximum": 0.0,
+      "seed": 2,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 500
+    },
+    {
+      "allocation_component_absolute_difference_maximum": 0.9705120752100362,
+      "allocation_l1_maximum": 1.9410241504200727,
+      "allocation_l1_mean": 0.9940362441853733,
+      "dataset": "djia",
+      "observations": 284,
+      "partition": "train",
+      "policy": "cost_aware",
+      "retained_test_allocation_absolute_error_maximum": null,
+      "seed": 3,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 300
+    },
+    {
+      "allocation_component_absolute_difference_maximum": 0.9674781632890653,
+      "allocation_l1_maximum": 1.9349563265781309,
+      "allocation_l1_mean": 1.0536894982811242,
+      "dataset": "djia",
+      "observations": 101,
+      "partition": "validation",
+      "policy": "cost_aware",
+      "retained_test_allocation_absolute_error_maximum": null,
+      "seed": 3,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 300
+    },
+    {
+      "allocation_component_absolute_difference_maximum": 0.9631292796764923,
+      "allocation_l1_maximum": 1.9262585593529848,
+      "allocation_l1_mean": 1.113064595837105,
+      "dataset": "djia",
+      "observations": 102,
+      "partition": "test",
+      "policy": "cost_aware",
+      "retained_test_allocation_absolute_error_maximum": 0.0,
+      "seed": 3,
+      "selected_parameters_exactly_initial": false,
+      "selected_update": 300
+    },
+    {
+      "allocation_component_absolute_difference_maximum": 0.0,
+      "allocation_l1_maximum": 0.0,
+      "allocation_l1_mean": 0.0,
+      "dataset": "djia",
+      "observations": 284,
+      "partition": "train",
+      "policy": "cost_aware",
+      "retained_test_allocation_absolute_error_maximum": null,
+      "seed": 4,
+      "selected_parameters_exactly_initial": true,
+      "selected_update": 0
+    },
+    {
+      "allocation_component_absolute_difference_maximum": 0.0,
+      "allocation_l1_maximum": 0.0,
+      "allocation_l1_mean": 0.0,
+      "dataset": "djia",
+      "observations": 101,
+      "partition": "validation",
+      "policy": "cost_aware",
+      "retained_test_allocation_absolute_error_maximum": null,
+      "seed": 4,
+      "selected_parameters_exactly_initial": true,
+      "selected_update": 0
+    },
+    {
+      "allocation_component_absolute_difference_maximum": 0.0,
+      "allocation_l1_maximum": 0.0,
+      "allocation_l1_mean": 0.0,
+      "dataset": "djia",
+      "observations": 102,
+      "partition": "test",
+      "policy": "cost_aware",
+      "retained_test_allocation_absolute_error_maximum": 0.0,
+      "seed": 4,
+      "selected_parameters_exactly_initial": true,
+      "selected_update": 0
+    }
+  ],
+  "scope": "Post hoc descriptive allocations only; cost-aware fits compared with same-seed reconstructed initialization on fixed train/validation/test states. All 75 retained fit records and parameter identities checked; 15 cost-aware fits evaluated.",
+  "status": "PASS",
+  "zero_checkpoint_parameters_exactly_initial_count": 15
+}

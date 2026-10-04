@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Cite this code and recorded-results artifact; no journal publication is claimed."
+type: software
+title: "Transaction Costs and Downside Risk in Deep Reinforcement Learning for Portfolio Allocation: Code and Recorded Results"
+authors:
+  - family-names: Ojha
+    given-names: Ayush
+    affiliation: "Independent Researcher, San Francisco, CA, USA"
+    orcid: "https://orcid.org/0009-0001-9404-4930"
+version: 1.0.0
+date-released: 2026-10-04
+repository-code: "https://github.com/ayushozha/portfolio-costs-downside-reproduction"
+url: "https://github.com/ayushozha/portfolio-costs-downside-reproduction/releases/tag/v1.0.0"
+abstract: "Recorded current experiments with scientific inputs public before July 25, 2017. Actual training and analysis dates are preserved."
+keywords:
+  - deep reinforcement learning
+  - portfolio allocation
+  - transaction costs
+  - downside risk
