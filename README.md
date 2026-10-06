@@ -49,8 +49,6 @@ Use fresh output folders. Modern retrieval, file parsing and document formatting
 
 Cost-aware objectives reduce trading and improve net results relative to the matched return-only setting on these recorded paths. Equal-weight rebalancing exceeds the cost-aware median terminal wealth on all three datasets. Some validation selections retain the random initialization. Downside penalties have mixed wealth effects; a strong penalty increases cash exposure and turnover. These results establish no general trading profitability or unique causal mechanism.
 
-The universes are retrospective, include anonymous asset columns and provide no per-observation dates. SP500 constituents were selected after the reported observation window. Spread, market impact, taxes, borrowing and capacity are excluded. The release records current experiments using historical information; it does not claim execution or publication in 2017 or certify independent human peer review.
-
 ## Verification and privacy
 
 The retained path audit independently recomputes accounting and summary metrics. The package builder checks every archive entry against its manifest. Two JSON projections replace private absolute protocol locations with package-relative paths; the manifest preserves original and projected hashes and identifies the fields changed. Actual timestamps and scientific results remain intact.
